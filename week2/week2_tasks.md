@@ -17,7 +17,7 @@ int summ(int x0, int N, int *X)
 Функция должна вычислять значение x0+∑xi, где 0<e;i<N
 
 
-##Problem inf02-2: asm-arm/basics/eqsolution
+## Problem inf02-2: asm-arm/basics/eqsolution
 Реализуйте функцию solve, с прототипом
 
 int solve(int A, int B, int C, int D);
